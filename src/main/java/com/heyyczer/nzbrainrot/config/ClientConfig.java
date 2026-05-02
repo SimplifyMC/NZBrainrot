@@ -1,6 +1,6 @@
-package com.heyyczer.nerdbrainrot.config;
+package com.heyyczer.nzbrainrot.config;
 
-import com.heyyczer.nerdbrainrot.Nerdbrainrot;
+import com.heyyczer.nzbrainrot.Nzbrainrot;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.fml.event.config.ModConfigEvent;
@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@EventBusSubscriber(modid = Nerdbrainrot.MOD_ID)
+@EventBusSubscriber(modid = Nzbrainrot.MOD_ID)
 public class ClientConfig {
     private static final ModConfigSpec.Builder BUILDER = new ModConfigSpec.Builder();
 

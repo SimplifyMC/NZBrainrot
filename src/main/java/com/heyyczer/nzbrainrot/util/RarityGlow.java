@@ -1,6 +1,6 @@
-package com.heyyczer.nerdbrainrot.util;
+package com.heyyczer.nzbrainrot.util;
 
-import com.heyyczer.nerdbrainrot.config.ClientConfig;
+import com.heyyczer.nzbrainrot.config.ClientConfig;
 import org.jspecify.annotations.Nullable;
 
 public class RarityGlow {

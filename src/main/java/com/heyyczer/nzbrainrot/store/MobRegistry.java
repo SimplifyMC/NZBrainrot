@@ -1,6 +1,6 @@
-package com.heyyczer.nerdbrainrot.store;
+package com.heyyczer.nzbrainrot.store;
 
-import com.heyyczer.nerdbrainrot.model.TrackedMob;
+import com.heyyczer.nzbrainrot.model.TrackedMob;
 
 import java.util.ArrayList;
 import java.util.HashMap;

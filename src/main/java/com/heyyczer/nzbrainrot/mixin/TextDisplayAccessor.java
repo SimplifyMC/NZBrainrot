@@ -1,4 +1,4 @@
-package com.heyyczer.nerdbrainrot.mixin;
+package com.heyyczer.nzbrainrot.mixin;
 
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.entity.Display;

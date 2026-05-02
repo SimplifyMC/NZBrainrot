@@ -1,6 +1,6 @@
-package com.heyyczer.nerdbrainrot.mixin;
+package com.heyyczer.nzbrainrot.mixin;
 
-import com.heyyczer.nerdbrainrot.store.GlowRegistry;
+import com.heyyczer.nzbrainrot.store.GlowRegistry;
 import net.minecraft.world.entity.Entity;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

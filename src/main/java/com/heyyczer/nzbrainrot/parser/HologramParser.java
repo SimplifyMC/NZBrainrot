@@ -1,7 +1,7 @@
-package com.heyyczer.nerdbrainrot.parser;
+package com.heyyczer.nzbrainrot.parser;
 
-import com.heyyczer.nerdbrainrot.mixin.TextDisplayAccessor;
-import com.heyyczer.nerdbrainrot.model.MobHologram;
+import com.heyyczer.nzbrainrot.mixin.TextDisplayAccessor;
+import com.heyyczer.nzbrainrot.model.MobHologram;
 import net.minecraft.world.entity.Display;
 import net.minecraft.world.entity.Entity;
 

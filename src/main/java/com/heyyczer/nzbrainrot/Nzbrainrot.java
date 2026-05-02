@@ -1,21 +1,21 @@
-package com.heyyczer.nerdbrainrot;
+package com.heyyczer.nzbrainrot;
 
-import com.heyyczer.nerdbrainrot.config.ClientConfig;
+import com.heyyczer.nzbrainrot.config.ClientConfig;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.config.ModConfig;
 
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
-@Mod(Nerdbrainrot.MOD_ID)
-public class Nerdbrainrot {
+@Mod(Nzbrainrot.MOD_ID)
+public class Nzbrainrot {
 
     // Define mod id in a common place for everything to reference
-    public static final String MOD_ID = "nerdbrainrot";
+    public static final String MOD_ID = "nzbrainrot";
 
     // The constructor for the mod class is the first code that is run when your mod is loaded.
     // FML will recognize some parameter types like IEventBus or ModContainer and pass them in automatically.
-    public Nerdbrainrot(IEventBus modEventBus, ModContainer modContainer) {
+    public Nzbrainrot(IEventBus modEventBus, ModContainer modContainer) {
         // Register our mod's ModConfigSpec so that FML can create and load the config file for us
         modContainer.registerConfig(ModConfig.Type.COMMON, ClientConfig.SPEC);
     }

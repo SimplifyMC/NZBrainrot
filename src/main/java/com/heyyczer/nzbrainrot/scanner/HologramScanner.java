@@ -1,4 +1,4 @@
-package com.heyyczer.nerdbrainrot.scanner;
+package com.heyyczer.nzbrainrot.scanner;
 
 import net.minecraft.world.entity.Display;
 import net.minecraft.world.entity.Entity;

@@ -1,4 +1,4 @@
-package com.heyyczer.nerdbrainrot.util;
+package com.heyyczer.nzbrainrot.util;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.resources.ResourceKey;

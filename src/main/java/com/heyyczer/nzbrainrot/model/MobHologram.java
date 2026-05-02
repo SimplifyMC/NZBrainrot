@@ -1,4 +1,4 @@
-package com.heyyczer.nerdbrainrot.model;
+package com.heyyczer.nzbrainrot.model;
 
 import lombok.Getter;
 import lombok.NonNull;

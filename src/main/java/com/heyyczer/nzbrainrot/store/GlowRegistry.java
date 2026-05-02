@@ -1,4 +1,4 @@
-package com.heyyczer.nerdbrainrot.store;
+package com.heyyczer.nzbrainrot.store;
 
 import org.jspecify.annotations.Nullable;
 

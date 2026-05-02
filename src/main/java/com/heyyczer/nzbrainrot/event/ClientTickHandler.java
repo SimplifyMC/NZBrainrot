@@ -1,13 +1,13 @@
-package com.heyyczer.nerdbrainrot.event;
+package com.heyyczer.nzbrainrot.event;
 
-import com.heyyczer.nerdbrainrot.model.TrackedMob;
-import com.heyyczer.nerdbrainrot.parser.HologramParser;
-import com.heyyczer.nerdbrainrot.scanner.HologramScanner;
-import com.heyyczer.nerdbrainrot.scanner.MobScanner;
-import com.heyyczer.nerdbrainrot.store.GlowRegistry;
-import com.heyyczer.nerdbrainrot.store.MobRegistry;
-import com.heyyczer.nerdbrainrot.util.RarityGlow;
-import com.heyyczer.nerdbrainrot.util.WorldUtil;
+import com.heyyczer.nzbrainrot.model.TrackedMob;
+import com.heyyczer.nzbrainrot.parser.HologramParser;
+import com.heyyczer.nzbrainrot.scanner.HologramScanner;
+import com.heyyczer.nzbrainrot.scanner.MobScanner;
+import com.heyyczer.nzbrainrot.store.GlowRegistry;
+import com.heyyczer.nzbrainrot.store.MobRegistry;
+import com.heyyczer.nzbrainrot.util.RarityGlow;
+import com.heyyczer.nzbrainrot.util.WorldUtil;
 import com.mojang.logging.LogUtils;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.SubscribeEvent;
